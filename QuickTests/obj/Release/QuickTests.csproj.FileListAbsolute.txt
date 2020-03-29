@@ -1,0 +1,8 @@
+C:\Users\kolcz01\Source\Repos\QuickTests\QuickTests\bin\Release\WebDriver.dll
+C:\Users\kolcz01\Source\Repos\QuickTests\QuickTests\bin\Release\WebDriver.xml
+C:\Users\kolcz01\Source\Repos\QuickTests\QuickTests\obj\Release\QuickTests.csproj.CoreCompileInputs.cache
+C:\Users\kolcz01\Source\Repos\QuickTests\QuickTests\bin\Release\QuickTests.exe.config
+C:\Users\kolcz01\Source\Repos\QuickTests\QuickTests\bin\Release\QuickTests.exe
+C:\Users\kolcz01\Source\Repos\QuickTests\QuickTests\bin\Release\QuickTests.pdb
+C:\Users\kolcz01\Source\Repos\QuickTests\QuickTests\obj\Release\QuickTests.exe
+C:\Users\kolcz01\Source\Repos\QuickTests\QuickTests\obj\Release\QuickTests.pdb

@@ -1,0 +1,17 @@
+C:\Users\kolcz01\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\kolcz01\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\kolcz01\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\kolcz01\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\WebDriver.dll
+C:\Users\kolcz01\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\WebDriver.xml
+C:\Users\kolcz01\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\QuickTests.csprojResolveAssemblyReference.cache
+C:\Users\kolcz01\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\QuickTests.csproj.CoreCompileInputs.cache
+C:\Users\kolcz01\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\kolcz01\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\kolcz01\Source\Repos\QuickTests\QuickTests\bin\Debug\WebDriver.dll
+C:\Users\kolcz01\Source\Repos\QuickTests\QuickTests\bin\Debug\WebDriver.xml
+C:\Users\kolcz01\Source\Repos\QuickTests\QuickTests\obj\Debug\QuickTests.csproj.CoreCompileInputs.cache
+C:\Users\kolcz01\Source\Repos\QuickTests\QuickTests\bin\Debug\QuickTests.exe.config
+C:\Users\kolcz01\Source\Repos\QuickTests\QuickTests\bin\Debug\QuickTests.exe
+C:\Users\kolcz01\Source\Repos\QuickTests\QuickTests\bin\Debug\QuickTests.pdb
+C:\Users\kolcz01\Source\Repos\QuickTests\QuickTests\obj\Debug\QuickTests.exe
+C:\Users\kolcz01\Source\Repos\QuickTests\QuickTests\obj\Debug\QuickTests.pdb
