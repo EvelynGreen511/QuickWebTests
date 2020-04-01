@@ -6,3 +6,4 @@ C:\Users\kolcz01\Source\Repos\QuickTests\QuickTests\bin\Release\QuickTests.exe
 C:\Users\kolcz01\Source\Repos\QuickTests\QuickTests\bin\Release\QuickTests.pdb
 C:\Users\kolcz01\Source\Repos\QuickTests\QuickTests\obj\Release\QuickTests.exe
 C:\Users\kolcz01\Source\Repos\QuickTests\QuickTests\obj\Release\QuickTests.pdb
+C:\Users\kolcz01\Source\Repos\QuickTests\QuickTests\obj\Release\QuickTests.csprojResolveAssemblyReference.cache
