@@ -20,6 +20,11 @@ namespace QuickTests
             XPATH,
         }
 
+        private List<string> ErrorMessage = new List<string>
+        {
+            { "Oops, an error occurred!" }
+        };
+
         private string resultPath;
         private List<WebTestTask> list;
 
@@ -47,6 +52,8 @@ namespace QuickTests
                     AcceptIfCookieBanner(driver);
                     r.HttpStatus = GetHttpStatus(site.Url);
                     r.ScreenshotPath = SaveScreenshot(driver, resultPath);
+                    r.TestTask = site;
+                    r.Typo3ErrorText = SearchForTypo3ErrorText(driver);
                 }
                 catch (Exception e)
                 {
@@ -98,6 +105,17 @@ namespace QuickTests
             return result;
         }
 
+
+        private string SearchForTypo3ErrorText(ChromeDriver driver)
+        {
+            foreach(string error in this.ErrorMessage)
+            {
+                
+            }
+
+            return string.Empty;
+        }
+
         private bool CheckIfElementIsShownOnPage(ChromeDriver driver, Identifier type, string elementIdentifier)
         {
             try
@@ -139,6 +157,12 @@ namespace QuickTests
             {
                 return false;
             }
+        }
+
+        private bool CheckForTypo3ErrorTextOnPage(ChromeDriver driver)
+        {
+
+            return false;
         }
     }
 }

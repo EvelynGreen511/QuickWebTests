@@ -47,6 +47,7 @@ namespace QuickTests
                     {
                         sb.AppendLine("<div class=\"webtest result\">");
                         sb.AppendLine("<h2>" + result.HttpStatus + "</h2>");
+                        sb.AppendLine("<a href=\""+ result.TestTask.Url +"\">Go to URL</a>");
                         sb.AppendLine("<a href=\""+ result.ScreenshotPath+"\"><img src=\"" + result.ScreenshotPath + "\" style=\"max-width:250px; max-height:250px\"/></a>");
                         sb.AppendLine("</div>");
                     }

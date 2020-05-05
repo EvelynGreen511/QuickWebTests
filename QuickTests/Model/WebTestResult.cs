@@ -28,5 +28,15 @@ namespace QuickTests
         {
             get; set;
         }
+
+        public WebTestTask TestTask
+        {
+            get; set;
+        }
+
+        public string Typo3ErrorText
+        {
+            get; set;
+        }
     }
 }
