@@ -13,19 +13,14 @@ namespace QuickTests
             AVAILABILTIY
         }
 
-        private TestType task;
-        private String customer;
-        private String url;
-        private String expectedHttpStatus;
-
         public WebTestTask()  {  }
 
         public WebTestTask(TestType task, string customer, string url, string expectedHttpStatus)
         {
-            this.task = task;
-            this.customer = customer;
-            this.url = url;
-            this.expectedHttpStatus = expectedHttpStatus;
+            Task = task;
+            Customer = customer;
+            Url = url;
+            ExpectedHttpStatus = expectedHttpStatus;
         }
 
         public String Customer
